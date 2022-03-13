@@ -1,3 +1,3 @@
-message = input("Enter the message: ")
+message = input()
 
 print(message[::-1])
